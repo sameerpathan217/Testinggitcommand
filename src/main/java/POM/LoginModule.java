@@ -71,5 +71,7 @@ public class LoginModule {
 		OpenLogoutMenu.click();
 		wu.sleep();
 		logoutButton.click();
+
+		//Hi sameer
 	}
 }
