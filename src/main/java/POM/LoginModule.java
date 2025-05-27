@@ -72,7 +72,7 @@ public class LoginModule {
 		wu.sleep();
 		logoutButton.click();
 
-		//Hi sameer
-		//Hello
+		//Create new branch and push code
+		
 	}
 }
