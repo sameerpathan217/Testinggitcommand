@@ -72,8 +72,8 @@ public class LoginModule {
 		wu.sleep();
 		logoutButton.click();
 
-		//Hi sameer
-		//Hello
-		//hi
+
+		//Hi hello sameer
+
 	}
 }
